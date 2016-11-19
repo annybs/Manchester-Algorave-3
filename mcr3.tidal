@@ -593,7 +593,7 @@ d'drum $ swing' $ stack [
 
 -- outro
 
-msil [d'nim, d'wax, d'bass2, d'fx2, d'fx3]
+msil [d'nim, d'wax, d'fx2, d'fx3]
 
 d'hi $
   swing' $
@@ -625,7 +625,7 @@ d'drum $ swing' $ stack [
   # gain "0.8"
   ]
 
-msil [d'bass, d'hi, d'bass2, d'fx1, d'fx3]
+msil [d'bass, d'bass2, d'hi, d'fx1, d'fx3]
 
 d'wax $ slow 16 . striate 256 $ s "icarus"
 d'wax $ retrig $ slow 20 $ sound "icarus:1"

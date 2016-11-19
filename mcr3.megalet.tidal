@@ -295,4 +295,4 @@ d'fx3 $ 3 ~> n "[0 1]/8" # s "duon"
 msil [d'wax, d'fx2, d'fx3] -- pt1-2
 msil [d'fx1, d'fx2] -- pt3-intermission. then solo d'nim
 msil [d'nim, d'wax, d'fx2, d'fx3] -- int-pt4
-msil [d'bass, d'hi, d'bass2, d'fx1, d'fx3] -- outro
+msil [d'bass, d'bass2, d'hi, d'fx1, d'fx3] -- outro
